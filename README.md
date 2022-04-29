@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @domadamir6
+- 👀 I’m interested in scripts
+- 🌱 I’m currently learning python
+- 📫 mrhocku2016@ya.ru
